@@ -23,21 +23,21 @@ The repository will mostly focus on projects realating to:
             </ul>
             <li>Support Vector Machines</li>
             <ul>
-                <li><span style='color:red'>note</span> models contain <u>parameters</u>!</li>
+                <li>note: models contain <u>parameters</u>!</li>
                 <ul>
-                    <li>check them!- <span style='color:blue'>ref.<a href=#train_SVC>'Train the Support Vector Classifier'</a> note</span></li>
-                    <li>use <b>Grid search</b> to optimize:<a href=#svm_grid_search>grid search</a></li>
+                    <li>check them!- ref.'Train the Support Vector Classifier' note</li>
+                    <li>use <b>Grid search</b> to optimize:grid search</li>
                 </ul>
             </ul>
         </ol>
     </ol>
     <li>unsupervised learning</li>
     <ol>
-        <li><u>dimensionality reduction</u>: <a href=#pca>Principle Component analysis (PCA)</a> (<a href=#pca_theory>theory link</a>)</li>
-        <li><u>clustering</u>: <a href=#k_means_clust>k means clustering</a></li>
+        <li><u>dimensionality reduction</u>: Principle Component analysis (PCA) (theory link)</li>
+        <li><u>clustering</u>: k means clustering</li>
     </ol>
     <li>Deep learning</li>
     <ol>
-        <li>(<span style="color:red">More to come!</span>)</li>
+        <li>(More to come!)</li>
     </ol>
 </ol>
