@@ -16,7 +16,7 @@ The repository will mostly focus on projects realating to:
         </ol>
         <li><u>classification</u>:</li>
         <ol>
-            <li>K nearest neighbors (theory & example calculation link)</li>
+            <li>K nearest neighbors (w/theory & example calculation)</li>
             <ul>
                 <li>Knn vs. support vector machienes- when to use? --><a href='https://www.linkedin.com/advice/1/what-distinguishes-k-nearest-neighbors-from-support-muace'>link</a> <span style='color:blue'> ref. point 7-
     Navin Kamuni comment</span></li>
@@ -33,7 +33,7 @@ The repository will mostly focus on projects realating to:
     </ol>
     <li>unsupervised learning</li>
     <ol>
-        <li><u>dimensionality reduction</u>: Principle Component analysis (PCA) (theory link)</li>
+        <li><u>dimensionality reduction</u>: Principle Component analysis (PCA)</li>
         <li><u>clustering</u>: k means clustering</li>
     </ol>
     <li>Deep learning</li>
