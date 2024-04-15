@@ -17,13 +17,6 @@ The repository will mostly focus on projects realating to:
         <ol>
             <li>K nearest neighbors (theory & example calculation link)</li>
             <ul>
-                <span style="color:blue">
-                <li>section refrences</li>
-                <ol>
-                    <li>Standard Scaler</li>
-                    <li><theory & example calculation link (2nd link)</li>
-                </ol>
-                </span>
                 <li>Knn vs. support vector machienes- when to use? --><a href='https://www.linkedin.com/advice/1/what-distinguishes-k-nearest-neighbors-from-support-muace'>link</a> <span style='color:blue'> ref. point 7-
     Navin Kamuni comment</span></li>
             </ul>
