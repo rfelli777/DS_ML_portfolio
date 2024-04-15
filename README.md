@@ -1,6 +1,6 @@
 <span style='font-size:30px;'>Welcome!</span>
 
-<br>This repository contains some projects from my Data science & Machine learning course as well as some others I do for work & fun.
+<br>This repository contains some projects from a Data science & Machine learning course I took as well as some others I do for work & fun.
 
 The repository will mostly focus on projects realating to:
 <ol>
